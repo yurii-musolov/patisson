@@ -1,7 +1,9 @@
 {
   "name": "patisson",
-  "version": "0.0.0",
-  "private": true,
+  "version": "0.0.1",
+  "author": "Yurii Musolov <yurii.musolov@gmail.com",
+  "private": false,
+  "license": "UNLICENSED",
   "type": "module",
   "scripts": {
     "dev": "vite",
