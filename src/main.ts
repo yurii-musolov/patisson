@@ -5,6 +5,9 @@ import { createPinia } from 'pinia'
 
 import App from './App.vue'
 import router from './router'
+import { debugInBrowser } from './application'
+
+debugInBrowser()
 
 const app = createApp(App)
 
